@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Tic-Tac-Toe.Problems-Chocolate.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Tic-Tac-Toe.Problems-Chocolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Tic-Tac-Toe.Problems-Chocolate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Tic-Tac-Toe.Problems-Chocolate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Tic-Tac-Toe.Problems-Chocolate.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Chocolate/Tic-Tac-Toe.Problems-Chocolate.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Tic-Tac-Toe.Problems-Cinema.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Tic-Tac-Toe.Problems-Fix_compile-time_errors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Tic-Tac-Toe.Problems-Fix_compile-time_errors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Tic-Tac-Toe.Problems-Fix_compile-time_errors.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Tic-Tac-Toe.Problems-Fix_compile-time_errors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Tic-Tac-Toe.Problems-Fix_compile-time_errors.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Tic-Tac-Toe.Problems-Fix_compile-time_errors.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Tic-Tac-Toe.Problems-Maximum_element_in_a_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Tic-Tac-Toe.Problems-Maximum_element_in_a_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Tic-Tac-Toe.Problems-Maximum_element_in_a_matrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Tic-Tac-Toe.Problems-Maximum_element_in_a_matrix.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Tic-Tac-Toe.Problems-Maximum_element_in_a_matrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Tic-Tac-Toe.Problems-Maximum_element_in_a_matrix.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Tic-Tac-Toe.Problems-Swap_the_columns.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Tic-Tac-Toe.Problems-Swap_the_columns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Tic-Tac-Toe.Problems-Swap_the_columns.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Tic-Tac-Toe.Problems-Swap_the_columns.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Tic-Tac-Toe.Problems-Swap_the_columns.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Swap the columns/Tic-Tac-Toe.Problems-Swap_the_columns.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
